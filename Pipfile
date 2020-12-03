@@ -9,9 +9,10 @@ pandas = "*"
 scipy = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.9"
 
 [scripts]
-day = "python3 src/day2.py"
+day = "python3 -u src/day3.py"
