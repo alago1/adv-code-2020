@@ -15,4 +15,4 @@ pylint = "*"
 python_version = "3.9"
 
 [scripts]
-day = "python3 -u src/day7.py"
+day = "python3 -u src/day8.py"
